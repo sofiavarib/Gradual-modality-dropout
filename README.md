@@ -2,7 +2,7 @@
 
 Incorporation of gradual modality dropout in nnUnet. Follow the installation (from source using this folder) and usage instructions from https://github.com/MIC-DKFZ/nnUNet 
 
-![Method overview](Gradual-modality-dropout/overview)
+![Method overview](overview.png)
 
 ## How to incorporate gradual modality dropout in the training phase?
 
