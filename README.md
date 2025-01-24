@@ -20,4 +20,5 @@ Dropout probability
 1 if it is gradual, 0 if it is applied fully (without smooth function)
 
 Example: nnUNetv2_train 1 3d_fullres -mod 4,3 -prob 0.2 -gradual 1 
+
 3d_fullres nnUnet training on dataset 1 applying gradual modality dropout in the modality 4 and 3 with probability 0.2
